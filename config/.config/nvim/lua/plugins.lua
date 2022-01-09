@@ -20,6 +20,7 @@ return require('packer').startup(function()
     -- =======================================--
     
     use 'Mofiqul/dracula.nvim'
+    use { 'ellisonleao/gruvbox.nvim' }
     use {
         'nvim-treesitter/nvim-treesitter',
         run = ':TSUpdate'
@@ -36,6 +37,7 @@ return require('packer').startup(function()
     use 'itchyny/lightline.vim'-- Status bar
     use 'fatih/vim-go' -- lsp + go helper funcs
     use 'jparise/vim-graphql' -- graphql file detection, syntax and indentation
+    use {'nvim-telescope/telescope-fzf-native.nvim', run = 'make' }
     use {
         'nvim-telescope/telescope.nvim',
         requires = { {'nvim-lua/plenary.nvim'} }
