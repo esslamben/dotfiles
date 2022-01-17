@@ -3,15 +3,15 @@ local wo = vim.wo
 local bo = vim.bo
 
 vim.o.background = "dark"
-vim.cmd[[colorscheme gruvbox]]
+vim.cmd[[colorscheme dracula]]
 set.termguicolors = true
 set.syntax = 'on'
 set.smartcase = true
 set.undofile = true
 set.hidden = true
-set.tabstop = 2
-set.softtabstop = 2
-set.shiftwidth = 2
+set.tabstop = 4
+set.softtabstop = 4
+set.shiftwidth = 4
 set.expandtab = true
 set.autoindent = true
 set.cursorline = true
