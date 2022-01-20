@@ -2,8 +2,8 @@ local set = vim.opt
 local wo = vim.wo
 local bo = vim.bo
 
+vim.cmd([[ colorscheme catppuccin ]])
 vim.o.background = "dark"
-vim.cmd[[colorscheme dracula]]
 set.termguicolors = true
 set.syntax = 'on'
 set.smartcase = true

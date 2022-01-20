@@ -18,8 +18,10 @@ return require('packer').startup(function()
     -- =======================================--
     --             Syntax plugins             --
     -- =======================================--
-    
-    use 'Mofiqul/dracula.nvim'
+    use { 
+        "catppuccin/nvim",
+        config = function() require('catppuccin').setup{} end
+    }
     use {
         'nvim-treesitter/nvim-treesitter',
         run = ':TSUpdate'
