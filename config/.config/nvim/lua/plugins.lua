@@ -22,6 +22,7 @@ return require('packer').startup(function()
         "catppuccin/nvim",
         config = function() require('catppuccin').setup{} end
     }
+    use 'sainnhe/everforest'
     use {
         'nvim-treesitter/nvim-treesitter',
         run = ':TSUpdate'
