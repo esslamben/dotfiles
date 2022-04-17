@@ -1,6 +1,5 @@
 require'nvim-tree'.setup {
     update_focused_file = {enable = true},
-    auto_close = true,
     view = {width = 35}
 }
 

@@ -2,11 +2,10 @@ local set = vim.opt
 local wo = vim.wo
 local bo = vim.bo
 
+vim.g.sonokai_enable_italic = 1
+vim.g.sonokai_better_performance = 1
+vim.cmd([[colorscheme sonokai]])
 vim.o.background = "dark"
-vim.g.everforest_background = 'hard'
-vim.g.everforest_enable_italic = 1
-vim.g.everforest_disable_italic_comment = 1
-vim.cmd([[colorscheme everforest]])
 set.termguicolors = true
 set.syntax = 'on'
 set.smartcase = true
