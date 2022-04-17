@@ -18,10 +18,10 @@ return require('packer').startup(function()
     -- =======================================--
     --             Syntax plugins             --
     -- =======================================--
-    use { 
-        "catppuccin/nvim",
-        config = function() require('catppuccin').setup{} end
-    }
+    use 'sainnhe/everforest'
+    use 'pineapplegiant/spaceduck'
+    use 'sainnhe/sonokai'
+    use 'rakr/vim-one'
     use {
         'nvim-treesitter/nvim-treesitter',
         run = ':TSUpdate'
@@ -31,6 +31,8 @@ return require('packer').startup(function()
     -- =======================================-- 
     
     use 'neovim/nvim-lspconfig'
+    use 'jose-elias-alvarez/null-ls.nvim' 
+    use 'jose-elias-alvarez/nvim-lsp-ts-utils'
     use 'hrsh7th/nvim-cmp' -- Autocompletion plugin
     use 'hrsh7th/cmp-nvim-lsp' -- LSP source for nvim-cmp
     use 'saadparwaiz1/cmp_luasnip' -- Snippets source for nvim-cmp

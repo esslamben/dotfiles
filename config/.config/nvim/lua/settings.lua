@@ -2,7 +2,9 @@ local set = vim.opt
 local wo = vim.wo
 local bo = vim.bo
 
-vim.cmd([[ colorscheme catppuccin ]])
+vim.g.sonokai_enable_italic = 1
+vim.g.sonokai_better_performance = 1
+vim.cmd([[colorscheme sonokai]])
 vim.o.background = "dark"
 set.termguicolors = true
 set.syntax = 'on'
