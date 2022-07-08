@@ -2,9 +2,9 @@ local set = vim.opt
 local wo = vim.wo
 local bo = vim.bo
 
-vim.g.sonokai_enable_italic = 1
-vim.g.sonokai_better_performance = 1
-vim.cmd([[colorscheme sonokai]])
+vim.g.tokyonight_style = "night"
+vim.g.tokyonight_italic_functions = true
+vim.cmd([[colorscheme tokyonight]])
 vim.o.background = "dark"
 set.termguicolors = true
 set.syntax = 'on'
@@ -18,6 +18,7 @@ set.expandtab = true
 set.autoindent = true
 set.cursorline = true
 set.mouse = 'a'
+set.clipboard = "unnamed"
 
 wo.number = true
 wo.relativenumber = true

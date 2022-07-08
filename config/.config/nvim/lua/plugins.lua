@@ -20,6 +20,7 @@ return require('packer').startup(function()
     -- =======================================--
     use 'sainnhe/everforest'
     use 'pineapplegiant/spaceduck'
+    use 'folke/tokyonight.nvim'
     use 'sainnhe/sonokai'
     use 'rakr/vim-one'
     use {
