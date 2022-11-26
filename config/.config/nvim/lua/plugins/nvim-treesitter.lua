@@ -18,7 +18,9 @@ require'nvim-treesitter.configs'.setup {
     "go",
     "graphql",
     "dockerfile",
-    "lua"
+    "lua",
+    "svelte",
+    "css",
   },
 }
 

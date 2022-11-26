@@ -2,9 +2,7 @@ local set = vim.opt
 local wo = vim.wo
 local bo = vim.bo
 
-vim.g.tokyonight_style = "night"
-vim.g.tokyonight_italic_functions = true
-vim.cmd([[colorscheme tokyonight]])
+vim.cmd([[colorscheme catppuccin]])
 vim.o.background = "dark"
 set.termguicolors = true
 set.syntax = 'on'
