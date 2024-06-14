@@ -1,0 +1,96 @@
+2024-04-09 17:20:03.234 [info] Log level: Info
+2024-04-09 17:20:03.234 [info] Validating found git in: "git"
+2024-04-09 17:20:03.234 [info] Using git "2.44.0" from "git"
+2024-04-09 17:23:28.650 [info] Log level: Info
+2024-04-09 17:23:28.650 [info] Validating found git in: "git"
+2024-04-09 17:23:28.650 [info] Using git "2.44.0" from "git"
+2024-04-09 17:23:28.650 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-09 17:23:28.653 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-04-09 17:23:28.659 [info] Open repository: /home/essbot/.config/nvim
+2024-04-09 17:23:28.666 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-09 17:23:28.674 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-04-09 17:23:28.674 [info] > git rev-parse --show-toplevel [5ms]
+2024-04-09 17:23:28.676 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [3ms]
+2024-04-09 17:23:28.681 [info] > git rev-parse --show-toplevel [5ms]
+2024-04-09 17:23:28.682 [info] > git status -z -uall [2ms]
+2024-04-09 17:23:28.690 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-04-09 17:23:28.691 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:23:28.719 [info] > git status -z -uall [26ms]
+2024-04-09 17:23:29.173 [info] > git check-ignore -v -z --stdin [2ms]
+2024-04-09 17:23:30.866 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-09 17:23:31.861 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-09 17:23:49.316 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2024-04-09 17:23:49.317 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:23:49.321 [info] > git status -z -uall [1ms]
+2024-04-09 17:28:07.368 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-04-09 17:28:07.368 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:28:07.373 [info] > git status -z -uall [1ms]
+2024-04-09 17:28:12.385 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-04-09 17:28:12.386 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:28:12.390 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:12.131 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-04-09 17:29:12.131 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:29:12.135 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:14.076 [info] > git add -A -- /home/essbot/.config/nvim/README.md /home/essbot/.config/nvim/init.lua /home/essbot/.config/nvim/lua/custom/plugins/init.lua [2ms]
+2024-04-09 17:29:14.082 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [3ms]
+2024-04-09 17:29:14.083 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [1ms]
+2024-04-09 17:29:14.087 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:14.404 [info] > git show --textconv :init.lua [5ms]
+2024-04-09 17:29:14.405 [info] > git ls-files --stage -- /home/essbot/.config/nvim/init.lua [1ms]
+2024-04-09 17:29:14.409 [info] > git cat-file -s 91df88b70a7b9bc70cbb5b50fdba05077edd5593 [1ms]
+2024-04-09 17:29:15.261 [info] > git ls-files --stage -- /home/essbot/.config/nvim/init.lua [1ms]
+2024-04-09 17:29:15.266 [info] > git cat-file -s 91df88b70a7b9bc70cbb5b50fdba05077edd5593 [2ms]
+2024-04-09 17:29:15.271 [info] > git show --textconv :init.lua [1ms]
+2024-04-09 17:29:17.148 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [5ms]
+2024-04-09 17:29:17.149 [info] > git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 01b58994b7dad5cdf7b9fae46f4605f582447c4e [2ms]
+2024-04-09 17:29:17.153 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:19.296 [info] > git rebase --continue [12ms]
+2024-04-09 17:29:19.296 [info]                                                                                 Successfully rebased and updated refs/heads/master.
+2024-04-09 17:29:19.301 [info] > git config --get commit.template [0ms]
+2024-04-09 17:29:19.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-04-09 17:29:19.311 [info] > git config --get commit.template [6ms]
+2024-04-09 17:29:19.316 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:19.331 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-04-09 17:29:19.336 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-04-09 17:29:19.340 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-04-09 17:29:19.340 [warning] git config failed: Failed to execute git
+2024-04-09 17:29:19.344 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [1ms]
+2024-04-09 17:29:19.349 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-04-09 17:29:19.349 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-04-09 17:29:19.349 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:19.349 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:19.358 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-04-09 17:29:19.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-04-09 17:29:19.366 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-04-09 17:29:19.366 [warning] git config failed: Failed to execute git
+2024-04-09 17:29:19.370 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [1ms]
+2024-04-09 17:29:19.373 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-04-09 17:29:19.373 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-04-09 17:29:19.373 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:19.373 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:19.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [2ms]
+2024-04-09 17:29:19.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-04-09 17:29:19.434 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-04-09 17:29:19.434 [warning] git config failed: Failed to execute git
+2024-04-09 17:29:19.439 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [1ms]
+2024-04-09 17:29:19.443 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-04-09 17:29:19.443 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-04-09 17:29:19.443 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:19.443 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
+2024-04-09 17:29:20.474 [info] > git ls-files --stage -- /home/essbot/.config/nvim/init.lua [1ms]
+2024-04-09 17:29:20.479 [info] > git cat-file -s 91df88b70a7b9bc70cbb5b50fdba05077edd5593 [2ms]
+2024-04-09 17:29:20.484 [info] > git show --textconv :init.lua [1ms]
+2024-04-09 17:29:22.167 [info] > git config --get commit.template [5ms]
+2024-04-09 17:29:22.168 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-04-09 17:29:22.172 [info] > git status -z -uall [1ms]
+2024-04-09 17:29:35.436 [info] > git config --get commit.template [5ms]
+2024-04-09 17:29:35.439 [info] > git ls-files --stage -- /home/essbot/.config/nvim/init.lua [4ms]
+2024-04-09 17:29:35.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-04-09 17:29:35.445 [info] > git cat-file -s 91df88b70a7b9bc70cbb5b50fdba05077edd5593 [4ms]
+2024-04-09 17:29:35.446 [info] > git status -z -uall [2ms]
+2024-04-09 17:29:35.455 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2024-04-09 17:29:35.458 [info] > git show --textconv :init.lua [3ms]
+2024-04-09 17:29:35.459 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [1ms]
+2024-04-09 17:29:35.464 [info] > git diff --name-status -z --diff-filter=ADMR 456fff9362a114e1c5f93953e62648e53182ccd8...refs/remotes/origin/master [1ms]
+2024-04-09 17:29:35.471 [info] > git merge-base refs/heads/master refs/remotes/origin/master [1ms]
+2024-04-09 17:29:35.475 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [1ms]

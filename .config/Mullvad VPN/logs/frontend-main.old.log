@@ -1,0 +1,28 @@
+[2023-12-29 22:52:48.088][verbose] Chromium sandbox is enabled
+[2023-12-29 22:52:48.088][info] Running version 2023.6
+[2023-12-29 22:52:48.088][verbose] Creating gui-settings file and writing the default settings to it
+[2023-12-29 22:52:48.138][info] Detected locale: en-US
+[2023-12-29 22:52:48.165][info] Connected to the daemon
+[2023-12-29 22:52:48.223][info] Skip autoconnect because account token is not set
+[2023-12-29 22:52:48.404][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/essbot/.config/autostart/mullvad-vpn.desktop'
+[2023-12-29 23:52:48.175][verbose] GRPC Channel connectivity state changed to 2
+[2023-12-30 00:03:35.418][info] Suspend event received, disconnecting from daemon
+[2023-12-30 00:03:35.419][verbose] GRPC Channel connectivity state changed to 4
+[2023-12-30 00:03:35.421][info] Disconnected from the daemon
+[2023-12-30 00:03:35.423][info] Suspend event received, disconnecting from daemon
+[2023-12-30 00:03:35.423][info] Disconnected from the daemon
+[2023-12-30 11:06:39.307][info] Resume event received, connecting to daemon
+[2023-12-30 11:06:39.310][info] Resume event received, connecting to daemon
+[2023-12-30 11:06:39.310][info] Connected to the daemon
+[2023-12-30 11:06:39.311][info] Connected to the daemon
+[2023-12-30 11:06:39.495][warning] Failed to fetch account data. Retrying in 8000 ms
+[2023-12-30 11:06:39.495][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2023-12-30 11:06:39.495][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2023-12-30 11:06:47.500][warning] Failed to fetch account data. Retrying in 16000 ms
+[2023-12-30 11:07:00.217][verbose] GRPC Channel connectivity state changed to 1
+[2023-12-30 11:07:00.217][verbose] GRPC Channel connectivity state changed to 0
+[2023-12-30 11:07:00.218][info] Disconnected from the daemon
+[2023-12-30 11:07:00.218][verbose] GRPC Channel connectivity state changed to 1
+[2023-12-30 11:07:00.220][error] Cannot deserialize the daemon event: 1 CANCELLED: Call cancelled
+[2023-12-30 11:07:00.246][info] before-quit received
+[2023-12-30 11:07:00.246][info] Quit initiated

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sshAgent.sshAuthorizatonModel": "application",
+  "ui.routes.lastUsedRoute": "{\"type\":\"ItemDetail\",\"content\":{\"itemListRoute\":{\"unlockedRoute\":{\"collectionUuid\":\"REDAIV2ZKVEVFB7Q3GTV5OSLBI\"},\"itemListType\":{\"type\":\"AllItems\"},\"category\":null,\"sortBehavior\":null},\"itemId\":\"172\"}}",
+  "sshAgent.promotionToastDismissed": true,
+  "security.authenticatedUnlock.enabled": true,
+  "security.authenticatedUnlock.requireAccountPasswordAfter": "\"thirty-days\"",
+  "developers.cliSharedLockState.enabled": true,
+  "passwordGenerator.size.characters": 13,
+  "authTags": {
+    "developers.cliSharedLockState.enabled": "Fx74o+T70BQVxlHmEr5O6GmggU8S5nlyrniSF092kc8",
+    "passwordGenerator.size.characters": "ZY4ZGlg+G8aA8qSO79jmI4KtcOIs/4hkZqcuAERKmeI",
+    "security.authenticatedUnlock.enabled": "MPrneGhhuI5dmhp2yEGKBaJr8wP7GPSDj4Hzm+7zTWU",
+    "security.authenticatedUnlock.requireAccountPasswordAfter": "ulgS3bDGUYmjgVwzsZ+MQKlG74ahtd6MAK0JMOFDzxM",
+    "sshAgent.promotionToastDismissed": "pV8wjaGTC+H5OCbEWEccIt1psocvGfbdqQLax4oAocw",
+    "sshAgent.sshAuthorizatonModel": "016CEpVS/rn66RecHZcchHutUuRGc2pX3jfq1eYTEpQ",
+    "ui.routes.lastUsedRoute": "Ge+6BsAclXonTYcrk5QqlD0E+nCLChNhsHeEglQUn7Q"
+  }
+}

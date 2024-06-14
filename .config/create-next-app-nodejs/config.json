@@ -1,0 +1,7 @@
+{
+	"preferences": {
+		"eslint": true,
+		"tailwind": false,
+		"srcDir": false
+	}
+}

@@ -1,0 +1,95 @@
+[2024-06-02 22:10:40.032][main][info] Application launched
+[2024-06-02 22:10:40.055][main][info] Application set as default protcol client for 'ytmd'
+[2024-06-02 22:10:40.064][main][info] Created memory store
+[2024-06-02 22:10:40.071][main][info] Performing store migration from 0.0.0 to >=2.0.0
+[2024-06-02 22:10:40.074][main][info] Performing store migration from >=2.0.0 to >=2.0.1
+[2024-06-02 22:10:40.076][main][info] Created electron store
+[2024-06-02 22:10:46.231][main][info] Application ready
+[2024-06-02 22:10:46.303][main][info] Setup IPC handlers
+[2024-06-02 22:10:46.305][main][info] Setup permission handlers
+[2024-06-02 22:10:46.306][main][info] Unregistered shortcuts
+[2024-06-02 22:10:46.307][main][info] Registered shortcuts
+[2024-06-02 22:10:46.311][main][info] Created tray icon
+[2024-06-02 22:10:46.381][main][info] Created main window
+[2024-06-02 22:10:46.385][main][info] Created YTM view
+[2024-06-02 22:10:46.385][main][info] Setup taskbar features
+[2024-06-02 22:10:46.385][main][info] Integration update: Zoom Factor
+[2024-06-02 22:10:46.386][main][info] Starting enabled integrations
+[2024-06-02 22:10:48.205][renderer][info] %c%s color: red; background: yellow; font-size: 24px; WARNING!
+[2024-06-02 22:10:48.206][renderer][info] %c%s font-size: 18px; Using this console may allow attackers to impersonate you and steal your information using an attack called Self-XSS.
+Do not enter or paste code that you do not understand.
+[2024-06-02 22:10:53.478][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:53.479][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:53.479][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:54.814][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2024-06-02 22:10:57.818][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:57.818][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:57.819][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:10:59.783][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:41.025][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2024-06-02 22:11:43.026][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.027][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.027][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.315][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.315][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.316][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.316][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.319][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.319][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.319][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:11:43.319][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.145][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.146][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.146][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.146][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.150][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.150][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.151][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.151][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.151][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.151][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.152][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.152][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-02 22:12:13.673][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:12:13.675][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:12:13.675][renderer][error] requestStorageAccessFor: Permission denied.
+[2024-06-02 22:12:14.763][main][info] Application quitting
+
+
+[2024-06-04 10:17:15.225][main][info] Application launched
+[2024-06-04 10:17:15.245][main][info] Application set as default protcol client for 'ytmd'
+[2024-06-04 10:17:15.259][main][info] Created memory store
+[2024-06-04 10:17:15.267][main][info] Created electron store
+[2024-06-04 10:17:15.411][main][info] Application ready
+[2024-06-04 10:17:15.414][main][info] Setup IPC handlers
+[2024-06-04 10:17:15.416][main][info] Setup permission handlers
+[2024-06-04 10:17:15.417][main][info] Unregistered shortcuts
+[2024-06-04 10:17:15.418][main][info] Registered shortcuts
+[2024-06-04 10:17:15.421][main][info] Created tray icon
+[2024-06-04 10:17:15.488][main][info] Created main window
+[2024-06-04 10:17:15.492][main][info] Created YTM view
+[2024-06-04 10:17:15.493][main][info] Setup taskbar features
+[2024-06-04 10:17:15.493][main][info] Integration update: Zoom Factor
+[2024-06-04 10:17:15.493][main][info] Starting enabled integrations
+[2024-06-04 10:17:16.525][renderer][info] LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.
+[2024-06-04 10:17:18.712][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.712][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.713][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.916][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.917][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.917][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:18.917][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.550][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.551][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.551][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.551][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.686][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.686][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.687][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:17:48.687][renderer][info] Third-party cookie will be blocked. Learn more in the Issues tab.
+[2024-06-04 10:18:17.905][main][info] Application quitting
+
+

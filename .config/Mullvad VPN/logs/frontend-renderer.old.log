@@ -1,0 +1,13 @@
+[2023-12-29 22:52:48.416][verbose] Tunnel state: disconnected
+[2023-12-29 22:52:48.416][verbose] Initial: Wrong content height: 593, expected 568
+[2023-12-29 22:52:53.446][info] Logging in
+[2023-12-29 22:54:16.469][verbose] Tunnel state: connecting
+[2023-12-29 22:54:16.518][verbose] Tunnel state: connecting
+[2023-12-29 22:54:16.655][verbose] Tunnel state: connected
+[2023-12-29 23:15:37.364][verbose] Tunnel state: disconnecting
+[2023-12-29 23:15:37.377][verbose] Tunnel state: disconnecting
+[2023-12-29 23:15:37.519][verbose] Tunnel state: disconnected
+[2023-12-30 11:06:39.472][verbose] Tunnel state: disconnected
+[2023-12-30 11:06:39.484][verbose] Tunnel state: disconnected
+[2023-12-30 11:06:39.495][error] Failed to update the location: 5 NOT_FOUND: no location was found
+[2023-12-30 11:06:39.496][error] Failed to update the location: 5 NOT_FOUND: no location was found

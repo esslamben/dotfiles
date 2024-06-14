@@ -1,0 +1,454 @@
+[2024-01-13 15:15:15.321][verbose] Chromium sandbox is enabled
+[2024-01-13 15:15:15.322][info] Running version 2023.6
+[2024-01-13 15:15:15.391][info] Detected locale: en-US
+[2024-01-13 15:15:15.425][info] Connected to the daemon
+[2024-01-13 15:15:15.483][info] Skip autoconnect because GUI setting is disabled
+[2024-01-13 15:15:15.714][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/essbot/.config/autostart/mullvad-vpn.desktop'
+[2024-01-13 15:39:21.217][info] Suspend event received, disconnecting from daemon
+[2024-01-13 15:39:21.218][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-13 15:39:21.220][info] Disconnected from the daemon
+[2024-01-13 15:39:21.224][info] Suspend event received, disconnecting from daemon
+[2024-01-13 15:39:21.225][info] Disconnected from the daemon
+[2024-01-13 15:39:25.855][info] Resume event received, connecting to daemon
+[2024-01-13 15:39:25.857][info] Resume event received, connecting to daemon
+[2024-01-13 15:39:25.858][info] Connected to the daemon
+[2024-01-13 15:39:25.859][info] Connected to the daemon
+[2024-01-13 15:39:26.040][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 15:39:26.040][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-13 15:39:26.041][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 15:54:26.027][info] Suspend event received, disconnecting from daemon
+[2024-01-13 15:54:26.027][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 15:54:26.027][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-13 15:54:26.027][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 15:54:26.028][info] Disconnected from the daemon
+[2024-01-13 15:54:26.029][info] Suspend event received, disconnecting from daemon
+[2024-01-13 15:54:26.029][info] Disconnected from the daemon
+[2024-01-13 15:55:17.634][info] Resume event received, connecting to daemon
+[2024-01-13 15:55:17.636][info] Resume event received, connecting to daemon
+[2024-01-13 15:55:17.636][info] Connected to the daemon
+[2024-01-13 15:55:17.637][info] Connected to the daemon
+[2024-01-13 15:55:18.100][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-13 15:55:18.100][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 15:55:18.100][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 15:55:26.106][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-13 16:22:11.746][info] Suspend event received, disconnecting from daemon
+[2024-01-13 16:22:11.747][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 16:22:11.747][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-13 16:22:11.747][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 16:22:11.748][info] Disconnected from the daemon
+[2024-01-13 16:22:11.748][info] Suspend event received, disconnecting from daemon
+[2024-01-13 16:22:11.749][info] Disconnected from the daemon
+[2024-01-13 16:22:52.621][info] Resume event received, connecting to daemon
+[2024-01-13 16:22:52.621][info] Resume event received, connecting to daemon
+[2024-01-13 16:22:52.623][info] Connected to the daemon
+[2024-01-13 16:22:52.623][info] Connected to the daemon
+[2024-01-13 16:22:53.088][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-13 16:22:53.089][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 16:23:01.094][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-13 17:22:52.630][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-13 17:22:52.631][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-13 17:42:02.787][info] Suspend event received, disconnecting from daemon
+[2024-01-13 17:42:02.788][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 17:42:02.788][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-13 17:42:02.788][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 17:42:02.789][info] Disconnected from the daemon
+[2024-01-13 17:42:02.790][info] Suspend event received, disconnecting from daemon
+[2024-01-13 17:42:02.790][info] Disconnected from the daemon
+[2024-01-13 19:49:47.082][info] Resume event received, connecting to daemon
+[2024-01-13 19:49:47.084][info] Resume event received, connecting to daemon
+[2024-01-13 19:49:47.084][info] Connected to the daemon
+[2024-01-13 19:49:47.085][info] Connected to the daemon
+[2024-01-13 19:49:47.284][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 19:49:47.285][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-13 19:49:47.285][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-13 19:49:55.292][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-13 19:50:14.755][info] Suspend event received, disconnecting from daemon
+[2024-01-13 19:50:14.756][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 19:50:14.756][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-13 19:50:14.756][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-13 19:50:14.757][info] Disconnected from the daemon
+[2024-01-13 19:50:14.759][info] Suspend event received, disconnecting from daemon
+[2024-01-13 19:50:14.759][info] Disconnected from the daemon
+[2024-01-14 07:59:44.683][info] Resume event received, connecting to daemon
+[2024-01-14 07:59:44.684][info] Resume event received, connecting to daemon
+[2024-01-14 07:59:44.685][info] Connected to the daemon
+[2024-01-14 07:59:44.686][info] Connected to the daemon
+[2024-01-14 07:59:44.932][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-14 07:59:52.937][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-14 07:59:54.930][warning] Failed to update device info: 4 DEADLINE_EXCEEDED: API request timed out
+[2024-01-14 07:59:54.931][warning] Failed to update device info: 4 DEADLINE_EXCEEDED: API request timed out
+[2024-01-14 08:50:26.116][info] Suspend event received, disconnecting from daemon
+[2024-01-14 08:50:26.116][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 08:50:26.116][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-14 08:50:26.117][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 08:50:26.118][info] Disconnected from the daemon
+[2024-01-14 08:50:26.120][info] Suspend event received, disconnecting from daemon
+[2024-01-14 08:50:26.120][info] Disconnected from the daemon
+[2024-01-14 09:35:14.650][info] Resume event received, connecting to daemon
+[2024-01-14 09:35:14.652][info] Resume event received, connecting to daemon
+[2024-01-14 09:35:14.653][info] Connected to the daemon
+[2024-01-14 09:35:14.654][info] Connected to the daemon
+[2024-01-14 09:35:14.887][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 09:35:14.887][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-14 10:35:14.659][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 10:35:14.659][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 10:38:53.950][info] Suspend event received, disconnecting from daemon
+[2024-01-14 10:38:53.951][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 10:38:53.951][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-14 10:38:53.951][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 10:38:53.952][info] Disconnected from the daemon
+[2024-01-14 10:38:53.954][info] Suspend event received, disconnecting from daemon
+[2024-01-14 10:38:53.954][info] Disconnected from the daemon
+[2024-01-14 10:38:58.645][info] Resume event received, connecting to daemon
+[2024-01-14 10:38:58.645][info] Resume event received, connecting to daemon
+[2024-01-14 10:38:58.647][info] Connected to the daemon
+[2024-01-14 10:38:58.648][info] Connected to the daemon
+[2024-01-14 10:38:58.837][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-14 10:38:58.837][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 10:38:58.838][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 10:39:25.720][info] Suspend event received, disconnecting from daemon
+[2024-01-14 10:39:25.721][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 10:39:25.721][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-14 10:39:25.721][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 10:39:25.722][info] Disconnected from the daemon
+[2024-01-14 10:39:25.724][info] Suspend event received, disconnecting from daemon
+[2024-01-14 10:39:25.724][info] Disconnected from the daemon
+[2024-01-14 10:52:58.687][info] Resume event received, connecting to daemon
+[2024-01-14 10:52:58.688][info] Resume event received, connecting to daemon
+[2024-01-14 10:52:58.689][info] Connected to the daemon
+[2024-01-14 10:52:58.689][info] Connected to the daemon
+[2024-01-14 10:52:58.830][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 10:52:58.830][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 11:52:58.696][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 11:52:58.697][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 12:52:58.702][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 12:52:58.702][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 13:52:58.702][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 13:52:58.702][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 14:19:52.420][info] Suspend event received, disconnecting from daemon
+[2024-01-14 14:19:52.420][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 14:19:52.420][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-14 14:19:52.420][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 14:19:52.423][info] Disconnected from the daemon
+[2024-01-14 14:19:52.426][info] Suspend event received, disconnecting from daemon
+[2024-01-14 14:19:52.426][info] Disconnected from the daemon
+[2024-01-14 19:16:13.651][info] Resume event received, connecting to daemon
+[2024-01-14 19:16:13.653][info] Resume event received, connecting to daemon
+[2024-01-14 19:16:13.653][info] Connected to the daemon
+[2024-01-14 19:16:13.654][info] Connected to the daemon
+[2024-01-14 19:16:14.185][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 19:16:14.186][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-14 19:16:14.186][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-14 20:16:13.661][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 20:16:13.661][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 21:16:13.665][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 21:16:13.665][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 22:16:13.665][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 22:16:13.665][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 23:16:13.672][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 23:16:13.672][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-14 23:21:56.792][info] Suspend event received, disconnecting from daemon
+[2024-01-14 23:21:56.792][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 23:21:56.793][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-14 23:21:56.793][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-14 23:21:56.794][info] Disconnected from the daemon
+[2024-01-14 23:21:56.795][info] Suspend event received, disconnecting from daemon
+[2024-01-14 23:21:56.795][info] Disconnected from the daemon
+[2024-01-15 09:13:12.197][info] Resume event received, connecting to daemon
+[2024-01-15 09:13:12.198][info] Resume event received, connecting to daemon
+[2024-01-15 09:13:12.199][info] Connected to the daemon
+[2024-01-15 09:13:12.199][info] Connected to the daemon
+[2024-01-15 09:13:12.335][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 09:13:12.335][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 09:13:12.335][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 10:13:12.206][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 10:13:12.206][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 11:13:12.210][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 11:13:12.210][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 12:02:02.099][info] Suspend event received, disconnecting from daemon
+[2024-01-15 12:02:02.099][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 12:02:02.099][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 12:02:02.099][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 12:02:02.100][info] Disconnected from the daemon
+[2024-01-15 12:02:02.101][info] Suspend event received, disconnecting from daemon
+[2024-01-15 12:02:02.101][info] Disconnected from the daemon
+[2024-01-15 12:02:11.624][info] Resume event received, connecting to daemon
+[2024-01-15 12:02:11.626][info] Resume event received, connecting to daemon
+[2024-01-15 12:02:11.627][info] Connected to the daemon
+[2024-01-15 12:02:11.628][info] Connected to the daemon
+[2024-01-15 12:02:11.904][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 12:02:11.904][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 12:02:11.905][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 12:02:19.912][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-15 13:02:11.636][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 13:02:11.636][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 13:15:25.097][info] Suspend event received, disconnecting from daemon
+[2024-01-15 13:15:25.097][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 13:15:25.098][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 13:15:25.098][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 13:15:25.099][info] Disconnected from the daemon
+[2024-01-15 13:15:25.100][info] Suspend event received, disconnecting from daemon
+[2024-01-15 13:15:25.100][info] Disconnected from the daemon
+[2024-01-15 13:41:26.642][info] Resume event received, connecting to daemon
+[2024-01-15 13:41:26.643][info] Resume event received, connecting to daemon
+[2024-01-15 13:41:26.644][info] Connected to the daemon
+[2024-01-15 13:41:26.644][info] Connected to the daemon
+[2024-01-15 13:41:27.190][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 13:41:27.191][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 13:41:27.191][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 13:41:35.200][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-15 13:41:55.735][info] Suspend event received, disconnecting from daemon
+[2024-01-15 13:41:55.736][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 13:41:55.736][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 13:41:55.736][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 13:41:55.737][info] Disconnected from the daemon
+[2024-01-15 13:41:55.740][info] Suspend event received, disconnecting from daemon
+[2024-01-15 13:41:55.740][info] Disconnected from the daemon
+[2024-01-15 14:30:05.636][info] Resume event received, connecting to daemon
+[2024-01-15 14:30:05.638][info] Resume event received, connecting to daemon
+[2024-01-15 14:30:05.639][info] Connected to the daemon
+[2024-01-15 14:30:05.640][info] Connected to the daemon
+[2024-01-15 14:30:05.855][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 14:30:15.856][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 14:44:04.273][info] Suspend event received, disconnecting from daemon
+[2024-01-15 14:44:04.273][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 14:44:04.273][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 14:44:04.273][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 14:44:04.274][info] Disconnected from the daemon
+[2024-01-15 14:44:04.277][info] Suspend event received, disconnecting from daemon
+[2024-01-15 14:44:04.277][info] Disconnected from the daemon
+[2024-01-15 16:01:33.650][info] Resume event received, connecting to daemon
+[2024-01-15 16:01:33.651][info] Resume event received, connecting to daemon
+[2024-01-15 16:01:33.652][info] Connected to the daemon
+[2024-01-15 16:01:33.652][info] Connected to the daemon
+[2024-01-15 16:01:33.849][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 16:01:33.850][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 16:01:33.850][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 16:57:46.763][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:57:46.764][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:57:46.764][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 16:57:46.764][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:57:46.765][info] Disconnected from the daemon
+[2024-01-15 16:57:46.766][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:57:46.766][info] Disconnected from the daemon
+[2024-01-15 16:58:36.033][info] Resume event received, connecting to daemon
+[2024-01-15 16:58:36.034][info] Resume event received, connecting to daemon
+[2024-01-15 16:58:36.036][info] Connected to the daemon
+[2024-01-15 16:58:36.037][info] Connected to the daemon
+[2024-01-15 16:58:36.206][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 16:58:36.206][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 16:58:36.206][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 16:59:03.616][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:59:03.616][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:59:03.616][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 16:59:03.617][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:59:03.618][info] Disconnected from the daemon
+[2024-01-15 16:59:03.620][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:59:03.620][info] Disconnected from the daemon
+[2024-01-15 16:59:10.629][info] Resume event received, connecting to daemon
+[2024-01-15 16:59:10.630][info] Resume event received, connecting to daemon
+[2024-01-15 16:59:10.630][info] Connected to the daemon
+[2024-01-15 16:59:10.631][info] Connected to the daemon
+[2024-01-15 16:59:38.548][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:59:38.549][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:59:38.549][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 16:59:38.549][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 16:59:38.549][info] Disconnected from the daemon
+[2024-01-15 16:59:38.551][info] Suspend event received, disconnecting from daemon
+[2024-01-15 16:59:38.551][info] Disconnected from the daemon
+[2024-01-15 17:46:06.895][info] Resume event received, connecting to daemon
+[2024-01-15 17:46:06.896][info] Resume event received, connecting to daemon
+[2024-01-15 17:46:06.898][info] Connected to the daemon
+[2024-01-15 17:46:06.898][info] Connected to the daemon
+[2024-01-15 17:46:06.936][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 18:06:14.114][info] Suspend event received, disconnecting from daemon
+[2024-01-15 18:06:14.114][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 18:06:14.115][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 18:06:14.115][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 18:06:14.116][info] Disconnected from the daemon
+[2024-01-15 18:06:14.116][info] Suspend event received, disconnecting from daemon
+[2024-01-15 18:06:14.117][info] Disconnected from the daemon
+[2024-01-15 18:08:06.036][info] Resume event received, connecting to daemon
+[2024-01-15 18:08:06.039][info] Resume event received, connecting to daemon
+[2024-01-15 18:08:06.040][info] Connected to the daemon
+[2024-01-15 18:08:06.041][info] Connected to the daemon
+[2024-01-15 18:08:06.102][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 18:08:06.102][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 18:08:06.102][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 18:08:14.109][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-15 19:08:06.047][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 19:08:06.047][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 19:18:33.710][info] Suspend event received, disconnecting from daemon
+[2024-01-15 19:18:33.711][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 19:18:33.711][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 19:18:33.711][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 19:18:33.712][info] Disconnected from the daemon
+[2024-01-15 19:18:33.713][info] Suspend event received, disconnecting from daemon
+[2024-01-15 19:18:33.713][info] Disconnected from the daemon
+[2024-01-15 19:31:16.236][info] Resume event received, connecting to daemon
+[2024-01-15 19:31:16.238][info] Resume event received, connecting to daemon
+[2024-01-15 19:31:16.238][info] Connected to the daemon
+[2024-01-15 19:31:16.239][info] Connected to the daemon
+[2024-01-15 19:31:16.779][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 19:31:16.779][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 19:31:16.779][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 19:31:24.786][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-15 20:31:16.245][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 20:31:16.245][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 21:31:16.249][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 21:31:16.250][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 22:31:16.251][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 22:31:16.251][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-15 22:35:44.586][info] Suspend event received, disconnecting from daemon
+[2024-01-15 22:35:44.587][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 22:35:44.587][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 22:35:44.587][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 22:35:44.588][info] Disconnected from the daemon
+[2024-01-15 22:35:44.590][info] Suspend event received, disconnecting from daemon
+[2024-01-15 22:35:44.590][info] Disconnected from the daemon
+[2024-01-15 22:44:46.213][info] Resume event received, connecting to daemon
+[2024-01-15 22:44:46.214][info] Resume event received, connecting to daemon
+[2024-01-15 22:44:46.215][info] Connected to the daemon
+[2024-01-15 22:44:46.215][info] Connected to the daemon
+[2024-01-15 22:44:46.357][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 22:44:46.357][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 22:44:46.358][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 23:01:00.172][info] Suspend event received, disconnecting from daemon
+[2024-01-15 23:01:00.172][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 23:01:00.172][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 23:01:00.172][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 23:01:00.173][info] Disconnected from the daemon
+[2024-01-15 23:01:00.175][info] Suspend event received, disconnecting from daemon
+[2024-01-15 23:01:00.175][info] Disconnected from the daemon
+[2024-01-15 23:01:22.078][info] Resume event received, connecting to daemon
+[2024-01-15 23:01:22.080][info] Resume event received, connecting to daemon
+[2024-01-15 23:01:22.081][info] Connected to the daemon
+[2024-01-15 23:01:22.081][info] Connected to the daemon
+[2024-01-15 23:01:22.255][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 23:01:22.255][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-15 23:01:22.255][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-15 23:01:49.691][info] Suspend event received, disconnecting from daemon
+[2024-01-15 23:01:49.692][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 23:01:49.692][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-15 23:01:49.692][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-15 23:01:49.693][info] Disconnected from the daemon
+[2024-01-15 23:01:49.694][info] Suspend event received, disconnecting from daemon
+[2024-01-15 23:01:49.694][info] Disconnected from the daemon
+[2024-01-16 07:37:34.087][info] Resume event received, connecting to daemon
+[2024-01-16 07:37:34.089][info] Resume event received, connecting to daemon
+[2024-01-16 07:37:34.090][info] Connected to the daemon
+[2024-01-16 07:37:34.090][info] Connected to the daemon
+[2024-01-16 07:37:34.307][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 07:57:25.768][info] Suspend event received, disconnecting from daemon
+[2024-01-16 07:57:25.768][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 07:57:25.768][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 07:57:25.768][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 07:57:25.769][info] Disconnected from the daemon
+[2024-01-16 07:57:25.770][info] Suspend event received, disconnecting from daemon
+[2024-01-16 07:57:25.770][info] Disconnected from the daemon
+[2024-01-16 09:13:08.127][info] Resume event received, connecting to daemon
+[2024-01-16 09:13:08.127][info] Resume event received, connecting to daemon
+[2024-01-16 09:13:08.128][info] Connected to the daemon
+[2024-01-16 09:13:08.128][info] Connected to the daemon
+[2024-01-16 09:13:08.281][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 09:13:08.282][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 09:13:08.282][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 09:13:16.286][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-16 09:48:30.177][info] Suspend event received, disconnecting from daemon
+[2024-01-16 09:48:30.178][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 09:48:30.178][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 09:48:30.178][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 09:48:30.179][info] Disconnected from the daemon
+[2024-01-16 09:48:30.180][info] Suspend event received, disconnecting from daemon
+[2024-01-16 09:48:30.180][info] Disconnected from the daemon
+[2024-01-16 09:52:02.032][info] Resume event received, connecting to daemon
+[2024-01-16 09:52:02.033][info] Resume event received, connecting to daemon
+[2024-01-16 09:52:02.034][info] Connected to the daemon
+[2024-01-16 09:52:02.035][info] Connected to the daemon
+[2024-01-16 09:52:02.096][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 09:52:02.096][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 09:52:02.096][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 10:52:02.041][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 10:52:02.041][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 11:12:01.962][info] Suspend event received, disconnecting from daemon
+[2024-01-16 11:12:01.963][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 11:12:01.963][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 11:12:01.963][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 11:12:01.964][info] Disconnected from the daemon
+[2024-01-16 11:12:01.965][info] Suspend event received, disconnecting from daemon
+[2024-01-16 11:12:01.965][info] Disconnected from the daemon
+[2024-01-16 13:09:00.817][info] Resume event received, connecting to daemon
+[2024-01-16 13:09:00.818][info] Resume event received, connecting to daemon
+[2024-01-16 13:09:00.819][info] Connected to the daemon
+[2024-01-16 13:09:00.820][info] Connected to the daemon
+[2024-01-16 13:09:01.037][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 13:09:01.037][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 13:09:01.037][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 13:09:27.795][info] Suspend event received, disconnecting from daemon
+[2024-01-16 13:09:27.796][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 13:09:27.796][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 13:09:27.796][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 13:09:27.796][info] Disconnected from the daemon
+[2024-01-16 13:09:27.798][info] Suspend event received, disconnecting from daemon
+[2024-01-16 13:09:27.798][info] Disconnected from the daemon
+[2024-01-16 13:13:49.112][info] Resume event received, connecting to daemon
+[2024-01-16 13:13:49.115][info] Resume event received, connecting to daemon
+[2024-01-16 13:13:49.116][info] Connected to the daemon
+[2024-01-16 13:13:49.116][info] Connected to the daemon
+[2024-01-16 13:13:49.163][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 13:13:49.163][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 13:13:59.160][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 13:14:07.171][warning] Failed to fetch account data. Retrying in 16000 ms
+[2024-01-16 13:14:23.176][warning] Failed to fetch account data. Retrying in 32000 ms
+[2024-01-16 14:13:49.122][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 14:13:49.123][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 15:02:42.530][info] Suspend event received, disconnecting from daemon
+[2024-01-16 15:02:42.530][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 15:02:42.530][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 15:02:42.530][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 15:02:42.531][info] Disconnected from the daemon
+[2024-01-16 15:02:42.533][info] Suspend event received, disconnecting from daemon
+[2024-01-16 15:02:42.533][info] Disconnected from the daemon
+[2024-01-16 16:42:51.052][info] Resume event received, connecting to daemon
+[2024-01-16 16:42:51.053][info] Resume event received, connecting to daemon
+[2024-01-16 16:42:51.054][info] Connected to the daemon
+[2024-01-16 16:42:51.054][info] Connected to the daemon
+[2024-01-16 16:42:51.292][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 16:42:51.293][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 16:42:51.293][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 17:42:51.061][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 17:42:51.062][verbose] GRPC Channel connectivity state changed to 2
+[2024-01-16 18:26:15.931][info] Suspend event received, disconnecting from daemon
+[2024-01-16 18:26:15.931][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 18:26:15.932][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 18:26:15.932][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 18:26:15.933][info] Disconnected from the daemon
+[2024-01-16 18:26:15.934][info] Suspend event received, disconnecting from daemon
+[2024-01-16 18:26:15.934][info] Disconnected from the daemon
+[2024-01-16 18:26:21.624][info] Resume event received, connecting to daemon
+[2024-01-16 18:26:21.626][info] Resume event received, connecting to daemon
+[2024-01-16 18:26:21.626][info] Connected to the daemon
+[2024-01-16 18:26:21.626][info] Connected to the daemon
+[2024-01-16 18:26:22.095][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 18:26:22.095][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 18:26:22.095][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 18:41:22.973][info] Suspend event received, disconnecting from daemon
+[2024-01-16 18:41:22.973][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 18:41:22.973][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 18:41:22.974][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 18:41:22.974][info] Disconnected from the daemon
+[2024-01-16 18:41:22.976][info] Suspend event received, disconnecting from daemon
+[2024-01-16 18:41:22.976][info] Disconnected from the daemon
+[2024-01-16 19:19:09.803][info] Resume event received, connecting to daemon
+[2024-01-16 19:19:09.803][info] Resume event received, connecting to daemon
+[2024-01-16 19:19:09.804][info] Connected to the daemon
+[2024-01-16 19:19:09.805][info] Connected to the daemon
+[2024-01-16 19:19:09.994][warning] Failed to fetch account data. Retrying in 8000 ms
+[2024-01-16 19:19:09.994][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 19:19:09.994][warning] Failed to update device info: 14 UNAVAILABLE: Cannot reach the API
+[2024-01-16 19:54:51.559][info] before-quit received
+[2024-01-16 19:54:51.559][info] Quit initiated
+[2024-01-16 19:54:51.560][info] Unsubscribed from the daemon events
+[2024-01-16 19:54:51.560][verbose] GRPC Channel connectivity state changed to 1
+[2024-01-16 19:54:51.560][verbose] GRPC Channel connectivity state changed to 4
+[2024-01-16 19:54:51.560][verbose] GRPC Channel connectivity state changed to 1
